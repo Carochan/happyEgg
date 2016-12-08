@@ -1,0 +1,21 @@
+body { margin: 0; }
+* { box-sizing: border-box; }
+.clearfix:before,
+.clearfix:after { content: ""; display: table; }
+.clearfix:after { clear: both; }
+.clearfix { *zoom: 1; }
+
+
+body {
+  height: 100%;
+  font-size: 14px;
+  background: lavender;
+}
+
+
+.canvas {
+  width: 20em;
+  height: 22em;
+  margin: auto;
+  margin-top: 20%;
+}
