@@ -27,7 +27,7 @@ body {
   border-top-right-radius: 60% 60%;
   border-bottom-left-radius: 50% 60%;
   border-bottom-right-radius: 50% 60%;
-
+  box-shadow: inset -5px -5px 2px 2px #DDFFE7;
  }
  .yok {
   width: 60%;
@@ -37,4 +37,5 @@ body {
   position: relative;
   top: 40%;
   left: 20%;
+  box-shadow: inset -5px -5px 2px 2px #D9D900;
  }
