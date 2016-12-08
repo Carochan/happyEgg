@@ -55,6 +55,18 @@ body {
   background: #4A2500;
   border-radius: 50% / 50%;
 }
+.mouth {
+  width: 30%;
+  height: 25%;
+  background: brown;
+  border-top-left-radius: 10% 60%;
+  border-top-right-radius: 60% 60%;
+  border-bottom-left-radius: 50% 60%;
+  border-bottom-right-radius: 50% 60%;
+  margin: auto;
+  position: relative;
+  top: 45%;
+}
 
 
 
