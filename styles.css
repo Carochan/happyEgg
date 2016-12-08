@@ -29,3 +29,12 @@ body {
   border-bottom-right-radius: 50% 60%;
 
  }
+ .yok {
+  width: 60%;
+  height: 50%;
+  border-radius: 50% / 50%;
+  background: yellow;
+  position: relative;
+  top: 40%;
+  left: 20%;
+ }
