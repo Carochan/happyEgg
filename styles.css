@@ -9,7 +9,9 @@ body { margin: 0; }
 body {
   height: 100%;
   font-size: 14px;
-  background: pink;
+  background-image: linear-gradient(#C0CBFF, #E6EBFF, #8392D9, #5162B3
+, #2B3C8C
+);
 }
 
 
@@ -18,6 +20,7 @@ body {
   height: 22em;
   margin: auto;
   margin-top: 20%;
+  transform: rotate(25deg);
 }
  .white-part {
   width: 100%;
