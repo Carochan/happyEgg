@@ -39,3 +39,44 @@ body {
   left: 20%;
   box-shadow: inset -5px -5px 2px 2px #D9D900;
  }
+
+ .eyes {
+  width: 60%;
+  height: 10%;
+  margin: auto;
+  position: relative;
+  top: 40%;
+  display: flex;
+  justify-content: space-between;
+ }
+.eye {
+  width: 20%;
+  height: 100%;
+  background: #4A2500;
+  border-radius: 50% / 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
